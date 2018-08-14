@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Seed\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\ErwinGallo.SocialHUB.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Projects\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\ErwinGallo.SocialHUB.Web.csproj",
       "projectName": "ErwinGallo.SocialHUB.Web",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Seed\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\ErwinGallo.SocialHUB.Web.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\Projects\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\ErwinGallo.SocialHUB.Web.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Seed\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\Projects\\ErwinGallo.SocialHUB\\ErwinGallo.SocialHUB.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
